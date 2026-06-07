@@ -6,13 +6,14 @@
 - Penjumlahan(+)
 - Pengurangan (-)
 - Perkalian (*)
-- Pembagian (/)  
+- Pembagian (/)
+- Modulus atau sisa bagi (%)
 
 ## Yang dipelajari 
 - Variabel
 - Input dan output (cin, cout)
 - Percabangan (if, else if)
-- Tipe data float
+- Tipe data int
 
 ## Contoh Input  + 5 2  
 ## Output  5 + 2 = 7
