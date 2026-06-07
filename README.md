@@ -1,6 +1,8 @@
 # simple-calculator-cpp
 
-# Simple Calculator C++  Kalkulator sederhana yang dibuat untuk latihan C++.  
+# Simple Calculator C++  
+
+Kalkulator sederhana yang dibuat untuk latihan C++.  
 
 ## Fitur 
 - Penjumlahan(+)
