@@ -29,7 +29,7 @@ if (op == "+"){
    cout<<a<<" × "<<b<<" = "<<c<<endl;
  } 
  
- else if(op=="÷"){
+ else if(op=="/"){
   c=a/b;
    cout<<"Pembagian"<<endl;
    cout<<a<<" ÷ "<<b<<" = "<<c<<endl;
